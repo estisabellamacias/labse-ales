@@ -13,7 +13,32 @@
 
 ***Parte B***
 
+<p align="center">
+<img src="Graficas/picos R.jpeg" width="600">
+</p>
+
+
+<p align="center">
+<img src="Graficas/picos r 2.jpeg" width="600">
+</p>
+
+<p align="center">
+<img src="Graficas/coeficientes filtro.jpeg" width="600">
+</p>
+
+<p align="center">
+<img src="Graficas/hrv.jpeg" width="600">
+</p>
+
 ***Parte C***
+
+<p align="center">
+<img src="Graficas/parte c 1.jpeg" width="600">
+</p>
+
+<p align="center">
+<img src="Graficas/parte c 2.jpeg" width="600">
+</p>
 
 
 ## *Diagramas de flujo*
