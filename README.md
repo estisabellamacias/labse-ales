@@ -18,3 +18,9 @@
 
 ## *Diagramas de flujo*
 
+<p align="center">
+<img src="DIAGRAMAS/diagrama toma de datos.png" width="600">
+</p>
+<p align="center">
+<em>Diagrama de flujo de la toma de la señal.</em>
+</p>
