@@ -308,6 +308,11 @@ Esto permite comparar cambios fisiológicos (por ejemplo, fatiga o estrés).
   - CSI
   - CVI
 
-* **Formato tabular**
-  Facilita la comparación entre segmentos.
+## *Resultados*
+
+- Cambios temporales: La Media de los intervalos R-R disminuyó de 760.81 ms a 677.32 ms, lo que indica un aumento en la frecuencia cardíaca para responder a la demanda de la lectura. Por otro lado, el SDNN aumentó de 29.66 ms a 54.85 ms, un incremento provocado por la modulación rítmica que el habla y la respiración ejercen sobre el corazón.
+
+- Balance autonómico (Poincaré): El Índice Simpático (CSI) se duplicó con creces, pasando de 1.75 a 4.58, mientras que el índice vagal (CVI) permaneció relativamente estable. Esto se refleja visualmente en una nube de puntos más alargada y desplazada hacia valores de tiempo menores en el diagrama de Poincaré durante la verbalización.
+  
+- Interpretación final: La actividad de hablar actúa como un estresor controlado que activa la rama simpática del sistema nervioso autónomo, reduciendo los tiempos entre latidos y alterando la variabilidad global del sistema cardiovascular.
 
