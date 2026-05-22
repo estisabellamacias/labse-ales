@@ -11,6 +11,14 @@
 
 - *Diagrama de Poincaré:* Es una herramienta de análisis no lineal que grafica cada intervalo RRn frente al siguiente RRn+1. La geometría de la nube de puntos resultante permite evaluar la dispersión de la señal y calcular índices específicos: el CVI (Cardiac Vagal Index) para la actividad parasimpática y el CSI (Cardiac Sympathetic Index) para la actividad simpática.
 
+<p align="center">
+<img src="DIAGRAMAS/diagrama plan de accion.png" width="600">
+</p>
+<p align="center">
+<em>Diagrama de flujo del plan de acción.</em>
+</p>
+
+
 ***Parte B***
 
 <p align="center">
